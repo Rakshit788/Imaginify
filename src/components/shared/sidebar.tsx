@@ -13,8 +13,7 @@ import { Button } from '../ui/button'
 
 const SideBar = () => {
   const pathname = usePathname()
-  console.log(navLinks);
-
+ 
 
 
   return (
