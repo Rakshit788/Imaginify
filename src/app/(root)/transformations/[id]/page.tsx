@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Transformationthroughid() {
+const ImageDetails = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function Transformationthroughid() {
   )
 }
 
-export default Transformationthroughid
+export default ImageDetails

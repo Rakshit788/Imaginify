@@ -2,8 +2,7 @@ import { log } from 'console';
 import mongoose, { Mongoose } from 'mongoose';
 
 const MONGODB_URL = process.env.MONGODB_URL;
-console.log(MONGODB_URL);
-console.log(`h1`);
+
 
 
 
